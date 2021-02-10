@@ -1,2 +1,8 @@
 # Chan-HW3
  
+This is for CSC250 HW. 
+
+CSC250
+JUNGCHAN LEE
+
+PROF. LITMAN 
